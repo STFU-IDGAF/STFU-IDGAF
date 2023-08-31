@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leftkite
+- 👋 Hi, I’m Zara
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ur mom
